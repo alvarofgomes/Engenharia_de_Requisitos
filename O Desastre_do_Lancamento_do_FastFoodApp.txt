@@ -1,0 +1,27 @@
+Atividade Prática 1: O Desastre do Lançamento do "FastFoodApp"
+
+Cenário:
+
+A startup "QuickDev" foi contratada para desenvolver um aplicativo de delivery de comida, o "FastFoodApp". O prazo era curto e a equipe, ansiosa para agradar o cliente, pulou a fase de elicitação de requisitos e foi direto para o desenvolvimento. Duas semanas após o lançamento, o aplicativo é um fracasso: usuários reclamam que não conseguem filtrar restaurantes por tipo de culinária, restaurantes estão recebendo pedidos errados e o sistema de pagamento crasha frequentemente. O cliente está furioso.
+
+Os Mitos e Desafios:
+
+Mito 1: "MVP significa lançar o mais rápido possível, mesmo incompleto." A equipe acreditava que o conceito de Produto Mínimo Viável (MVP) significava lançar rapidamente sem uma validação clara das funcionalidades essenciais.
+
+Mito 2: "Todos usam apps de delivery, então sabemos exatamente o que o usuário quer." A equipe assumiu que suas experiências pessoais eram suficientes para definir os requisitos, sem consultar usuários reais ou restaurantes parceiros.
+
+Mito 3: "Requisitos não funcionais (como performance e segurança) são preocupações para a versão 2.0." A prioridade foi dada apenas às funcionalidades visíveis, negligenciando aspectos como tempo de carregamento e proteção de dados do cartão de crédito.
+
+Tarefa para os Alunos:
+
+Em grupos, vocês são consultores de Engenharia de Requisitos chamados para corrigir a rota do projeto.
+
+Análise de Causa Raiz: Identifiquem qual mito levou a cada um dos problemas principais do aplicativo (ex: falta de filtro, pedidos errados, crashes).
+
+Plano de Resgate: Elaborem um plano de ação para recolher os requisitos corretamente.
+
+Técnicas de Elicitação: Que técnicas vocês usariam? (Entrevistas com donos de restaurante? Questionários com usuários potenciais? Observação do fluxo de trabalho em uma cozinha?).
+
+Priorização: Como decidiriam quais requisitos consertar primeiro? 
+
+Requisitos Não-Funcionais: Quais RNs são críticos para este projeto e como vocês os validariam?
