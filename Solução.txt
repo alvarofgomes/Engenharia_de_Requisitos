@@ -1,0 +1,53 @@
+🔍 Problemas Identificados:
+
+- Pedidos com restaurantes inexistentes
+
+- Sistema de pagamento com crashes frequentes
+
+- Cálculos incorretos em promoções
+
+1.Análise de Causa Raiz
+
+Falta de filtro por tipo de culinária - Não houve consulta a usuários reais.
+
+Pedidos errados para restaurantes - Ignoraram os fluxos reais dos restaurantes, gerando falhas de integração.
+
+Sistema de pagamento com crashes - Negligenciaram confiabilidade e segurança.
+
+
+2.Plano de Resgate
+
+Reunir stakeholders (usuários, donos de restaurantes e cliente contratante).
+
+Conduzir sessões de elicitação para levantar requisitos funcionais e não-funcionais.
+
+Mapear os principais cenários de uso.
+
+Definir critérios de aceitação claros para cada funcionalidade.
+
+Planejar entregas incrementais, garantindo validação contínua.
+
+3.Técnicas de Elicitação
+
+Entrevistas - com donos de restaurantes e entregadores.
+
+Questionários - para usuários finais sobre preferências e dores.
+
+Protótipos - para validar usabilidade antes da implementação.
+
+
+4.Priorização de Requisitos
+
+- pedidos corretos, sistema de pagamento confiável.
+
+- avaliações de restaurantes, histórico de pedidos.
+
+- integração com programas de fidelidade.
+
+5.Requisitos Não-Funcionais
+
+- sistema deve responder em até 2 segundos.
+
+- suportar aumento no número de usuários simultâneos.
+
+- interface clara, validada com protótipos e testes com usuários.
